@@ -30,13 +30,6 @@ Run the script in Google Colab or a local Python environment.
 ### Example
 
 ```python
-import itertools
-import matplotlib.pyplot as plt
-import networkx as nx
-from mpl_toolkits.mplot3d import Axes3D
-from matplotlib.patches import Polygon
-from matplotlib.collections import PatchCollection
-
 # Example with 4 simplices
 simplices = [[0,1],[1,2,3],[2,4],[4,5,6,7],[4,0],[0,2],[0,9,10],[9,10,11,12]]
 dict = extract_simplices(simplices, 7)
