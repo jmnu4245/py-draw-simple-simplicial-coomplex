@@ -1,6 +1,7 @@
 # py-draw-simple-simplicial-complex
 
 A Python script to visualize 2D simplicial complexes from a list of simplices.
+Its purpouse is to be an easy visualization tool for simplicial complex in the context of a topology project.
 
 ## Features
 
